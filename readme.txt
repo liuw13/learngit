@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 ok
 Git has a mutable index called stage.
 Git tracks changes.
+
